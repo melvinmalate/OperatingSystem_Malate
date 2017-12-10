@@ -1,8 +1,9 @@
 # OperatingSystem_Malate
+# Procedure to use is already in the OS simulation
   # OS Programmer
   <li> ==Melvin Chester G. Malate==</li>
   <li>==karl Calupad L.==</li>
-  # Procedure to use is already in the OS simulation
+  
  # My OS Features ...
  <li>* Can manage to open a application from the computer</li>
  <li>* Can create folder with custom directory </li>
