@@ -1,0 +1,55 @@
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.pdb
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.exe
+c:\users\acer\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.pdb
+C:\Users\ACER\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form2.resources
+C:\Users\ACER\documents\visual studio 2013\Projects\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form3.resources
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe.config
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.exe
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.pdb
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.pdb
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csprojResolveAssemblyReference.cache
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form1.resources
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form2.resources
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form3.resources
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Properties.Resources.resources
+C:\Users\cvsu\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csproj.GenerateResource.Cache
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe.config
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.exe
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.pdb
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.pdb
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csprojResolveAssemblyReference.cache
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form1.resources
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form2.resources
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form3.resources
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Properties.Resources.resources
+C:\Users\CvSU Silang\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe.config
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.exe
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.pdb
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.pdb
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form1.resources
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form2.resources
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form3.resources
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Properties.Resources.resources
+C:\Users\ACER\Desktop\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csproj.GenerateResource.Cache
+D:\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe.config
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.exe
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.pdb
+D:\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.exe
+D:\OperatingSystemReal\OperatingSystemReal\bin\Debug\OperatingSystemReal.pdb
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csprojResolveAssemblyReference.cache
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form1.resources
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form2.resources
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Form3.resources
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.Properties.Resources.resources
+D:\OperatingSystemReal\OperatingSystemReal\obj\Debug\OperatingSystemReal.csproj.GenerateResource.Cache
